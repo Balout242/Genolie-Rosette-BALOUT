@@ -1,0 +1,13 @@
+title: "Genolie Rosette BALOUT"
+description: "Portfolio professionnel — BTS SIO, option SISR"
+theme: minima
+lang: fr
+markdown: kramdown
+permalink: pretty
+header_pages:
+  - a-propos.md
+  - competences.md
+  - projets.md
+  - experiences.md
+  - veille.md
+  - contact.md
